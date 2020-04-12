@@ -3,7 +3,7 @@
     {
       "id": "0",
       "name": "Uthappizza",
-      "image": "images/uthappizza.png",
+      "image": "https://raw.githubusercontent.com/akumar-99/conFusion-angular-json/master/images/uthappizza.png",
       "category": "mains",
       "featured": true,
       "label": "Hot",
@@ -57,7 +57,7 @@
     {
       "id": "1",
       "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
+      "image": "https://raw.githubusercontent.com/akumar-99/conFusion-angular-json/master/images/zucchipakoda.png",
       "category": "appetizer",
       "featured": false,
       "label": "",
@@ -105,7 +105,7 @@
     {
       "id": "2",
       "name": "Vadonut",
-      "image": "images/vadonut.png",
+      "image": "https://raw.githubusercontent.com/akumar-99/conFusion-angular-json/master/images/vadonut.png",
       "category": "appetizer",
       "featured": false,
       "label": "New",
@@ -147,7 +147,7 @@
     {
       "id": "3",
       "name": "ElaiCheese Cake",
-      "image": "images/elaicheesecake.png",
+      "image": "https://raw.githubusercontent.com/akumar-99/conFusion-angular-json/master/images/elaicheesecake.png",
       "category": "dessert",
       "featured": false,
       "label": "",
@@ -191,7 +191,7 @@
     {
       "id": "0",
       "name": "Weekend Grand Buffet",
-      "image": "images/buffet.png",
+      "image": "https://raw.githubusercontent.com/akumar-99/conFusion-angular-json/master/images/buffet.png",
       "featured": true,
       "label": "New",
       "price": "19.99",
@@ -202,7 +202,7 @@
     {
       "id": "0",
       "name": "Peter Pan",
-      "image": "images/alberto.png",
+      "image": "https://raw.githubusercontent.com/akumar-99/conFusion-angular-json/master/images/alberto.png",
       "designation": "Chief Epicurious Officer",
       "featured": false,
       "abbr": "CEO",
@@ -211,7 +211,7 @@
     {
       "id": "1",
       "name": "Dhanasekaran Witherspoon",
-      "image": "images/alberto.png",
+      "image": "https://raw.githubusercontent.com/akumar-99/conFusion-angular-json/master/images/alberto.png",
       "designation": "Chief Food Officer",
       "featured": false,
       "abbr": "CFO",
@@ -220,7 +220,7 @@
     {
       "id": "2",
       "name": "Agumbe Tang",
-      "image": "images/alberto.png",
+      "image": "https://raw.githubusercontent.com/akumar-99/conFusion-angular-json/master/images/alberto.png",
       "designation": "Chief Taste Officer",
       "featured": false,
       "abbr": "CTO",
@@ -229,7 +229,7 @@
     {
       "id": "3",
       "name": "Alberto Somayya",
-      "image": "images/alberto.png",
+      "image": "https://raw.githubusercontent.com/akumar-99/conFusion-angular-json/master/images/alberto.png",
       "designation": "Executive Chef",
       "featured": true,
       "abbr": "EC",
